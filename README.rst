@@ -37,11 +37,11 @@ This plot is from the CPython project.
 .. |cpython| image:: https://raw.githubusercontent.com/logston/plottags/master/cpython.png
     :alt: Resutls from plotting the tags from the CPython project.
 
-.. |downloads| image:: https://pypip.in/download/plottags/badge.svg?period=month
+.. |downloads| image:: https://img.shields.io/pypi/dm/plottags.svg
     :target: https://pypi.python.org/pypi/plottags
     :alt: Downloads
 
-.. |license| image:: https://pypip.in/license/plottags/badge.svg
+.. |license| image:: https://img.shields.io/pypi/l/plottags.svg
     :target: https://pypi.python.org/pypi/plottags/
     :alt: License
 
